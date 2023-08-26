@@ -1,4 +1,4 @@
 # apnacollege-demo
 This is my first Git repository.
 <br>
-Author - Waquar Arshad Khan
+Author - Waquar Arshad Khan (NITJ)
